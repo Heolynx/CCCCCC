@@ -14,7 +14,7 @@
 #define N_PLAYER            3
 // ----- EX. 4 : player ------------
 
-#define MAX_CHARNAME        200
+#define MAX_CHARNAME       200
 
 // ----- EX. 3 : board ------------
 #define MAX_DIE             6
